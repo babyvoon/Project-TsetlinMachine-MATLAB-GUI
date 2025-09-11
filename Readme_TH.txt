@@ -70,18 +70,15 @@
 
 8. ปุ่ม History
     ใช้เปิดหน้าต่าง Training History ที่บันทึกการ Train ทุกครั้งย้อนหลัง
-
     ข้อมูลที่แสดง เช่น
         - Timestamp – วันและเวลาที่ Train
         - Mode – Fix (ค่าคงที่) หรือ Sweep (กวาดค่า)
         - SweepTarget / SweepOrder – ระบุว่าจะกวาดค่าอะไรและลำดับอย่างไร
         - Threshold / Sensitivity (Start, End, Step) – รายละเอียดค่าที่ใช้
-
     ปุ่มควบคุม
         - Open Folder – เปิดโฟลเดอร์ผลลัพธ์ (เช่น history\results.xlsx)
         - Refresh – โหลดข้อมูลล่าสุดใหม่
         - Clear All – ล้างประวัติทั้งหมด
-
     ผลลัพธ์ที่บันทึก
         - บันทึกอัตโนมัติเป็นไฟล์ Excel (results.xlsx) สามารถเปิดใน Excel เพื่อนำไปวิเคราะห์ต่อได้
 
